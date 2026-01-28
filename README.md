@@ -8,8 +8,6 @@
 pip install -e .
 pip install pytest requests-mock
 
-или
-pip install fintablo
 ```
 
 ## Использование
